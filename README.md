@@ -1,3 +1,4 @@
 # Miniprojectnk
-this is my first Git Repository Nikhil Kumar 
+this is my first Git Repository 
+Author-Nikhil Kumar 
 
